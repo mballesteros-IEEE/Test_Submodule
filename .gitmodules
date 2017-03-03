@@ -1,0 +1,3 @@
+[submodule "RFExplorer_3GP_IoT"]
+	path = RFExplorer_3GP_IoT
+	url = https://github.com/mballesteros-RFExplorer/RFExplorer_3GP_IoT.git
